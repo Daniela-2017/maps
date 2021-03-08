@@ -1,4 +1,7 @@
 import { Component } from '@angular/core';
+import { google } from '@google/maps'
+
+
 
 @Component({
   selector: 'app-root',
